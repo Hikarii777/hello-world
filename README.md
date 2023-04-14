@@ -1,3 +1,2 @@
 # hello-world
-Atividade de Estudo, arquivo editado
-
+Criado para propositos escolares
